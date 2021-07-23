@@ -1,0 +1,2 @@
+# hotel
+Najlepszy jest Microsoft
